@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil ✨
 
-_Meu nome é Lara Vanessa_
+_Meu nome é **Lara Vanessa**_
 
 - Estou estudando no Alura
 - utilizo esse espaço para minha organização
@@ -13,5 +13,6 @@ _Meu nome é Lara Vanessa_
   
 
   ![](https://media.tenor.com/TNNZQlM8IJMAAAAC/spongebob-squarepants-happy.gif)
+  
   
   
